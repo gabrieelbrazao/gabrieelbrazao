@@ -24,7 +24,7 @@ I'm a full-stack developer from Brazil who spends most of the day in **TypeScrip
 back end, React and React Native on the front. I like well-structured projects: strict types, linting,
 tests and a setup that works the same on every machine.
 
-- 🔭 **Currently working on** — [`ai-job-search`](https://github.com/gabrieelbrazao/ai-job-search), an AI job application framework built on Claude Code, and [`gym-app`](https://github.com/gabrieelbrazao/gym-app), a workout tracking app.
+- 🔭 **Currently working on** — [`gym-app`](https://github.com/gabrieelbrazao/gym-app), a workout tracking app built with TypeScript.
 - 🌱 **Currently learning** — AI-assisted development workflows and agent tooling.
 - 💬 **Ask me about** — TypeScript, Node.js, React / React Native, Docker and project setup.
 - 📫 **How to reach me** — [LinkedIn](https://www.linkedin.com/in/gabriel-brazao-dev/) or [gabrieelbrazao@gmail.com](mailto:gabrieelbrazao@gmail.com).
@@ -38,7 +38,7 @@ Sou desenvolvedor full-stack, do Brasil, e passo a maior parte do dia em **TypeS
 back-end, React e React Native no front. Gosto de projetos bem estruturados: tipagem estrita, lint,
 testes e um ambiente que funciona igual em qualquer máquina.
 
-- 🔭 **Trabalhando em** — [`ai-job-search`](https://github.com/gabrieelbrazao/ai-job-search), um framework de candidaturas com IA feito em cima do Claude Code, e [`gym-app`](https://github.com/gabrieelbrazao/gym-app), um app de acompanhamento de treinos.
+- 🔭 **Trabalhando em** — [`gym-app`](https://github.com/gabrieelbrazao/gym-app), um app de acompanhamento de treinos feito em TypeScript.
 - 🌱 **Estudando** — fluxos de desenvolvimento assistidos por IA e ferramentas de agentes.
 - 💬 **Pode me perguntar sobre** — TypeScript, Node.js, React / React Native, Docker e configuração de projetos.
 - 📫 **Como me encontrar** — [LinkedIn](https://www.linkedin.com/in/gabriel-brazao-dev/) ou [gabrieelbrazao@gmail.com](mailto:gabrieelbrazao@gmail.com).
@@ -120,7 +120,6 @@ and https://github.com/ryo-ma/github-profile-trophy) and swap the host in the UR
 
 | Project | What it is · O que é |
 | --- | --- |
-| **[ai-job-search](https://github.com/gabrieelbrazao/ai-job-search)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/ai-job-search?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/ai-job-search?style=flat-square&color=7AA2F7" alt="Last commit" /> | AI job application framework built on Claude Code — evaluates postings, tailors CVs, writes cover letters and preps interviews.<br />Framework de candidaturas com IA feito sobre o Claude Code: avalia vagas, adapta currículos, escreve cartas de apresentação e prepara entrevistas. |
 | **[gym-app](https://github.com/gabrieelbrazao/gym-app)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/gym-app?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/gym-app?style=flat-square&color=7AA2F7" alt="Last commit" /> | Workout tracking app written in TypeScript.<br />App de acompanhamento de treinos escrito em TypeScript. |
 | **[file-store](https://github.com/gabrieelbrazao/file-store)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/file-store?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/file-store?style=flat-square&color=7AA2F7" alt="Last commit" /> | Service that receives files and stores them in a database.<br />Serviço que recebe arquivos e os armazena em banco de dados. |
 | **[file-reader](https://github.com/gabrieelbrazao/file-reader)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/file-reader?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/file-reader?style=flat-square&color=7AA2F7" alt="Last commit" /> | Service that reads and processes files, then forwards them to another application.<br />Serviço que lê e processa arquivos e os envia para outra aplicação. |
