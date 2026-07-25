@@ -24,7 +24,7 @@ I'm a full-stack developer from Brazil who spends most of the day in **TypeScrip
 back end, React and React Native on the front. I like well-structured projects: strict types, linting,
 tests and a setup that works the same on every machine.
 
-- 🔭 **Currently working on** — [`gym-app`](https://github.com/gabrieelbrazao/gym-app), a workout tracking app built with TypeScript.
+- 🔭 **Currently working on** — [`barber-app`](https://github.com/gabrieelbrazao/barber-app), a white-label multi-tenant booking app (Expo + Supabase), and [`gym-app`](https://github.com/gabrieelbrazao/gym-app), a workout tracker.
 - 🌱 **Currently learning** — AI-assisted development workflows and agent tooling.
 - 💬 **Ask me about** — TypeScript, Node.js, React / React Native, Docker and project setup.
 - 📫 **How to reach me** — [LinkedIn](https://www.linkedin.com/in/gabriel-brazao-dev/) or [gabrieelbrazao@gmail.com](mailto:gabrieelbrazao@gmail.com).
@@ -38,7 +38,7 @@ Sou desenvolvedor full-stack, do Brasil, e passo a maior parte do dia em **TypeS
 back-end, React e React Native no front. Gosto de projetos bem estruturados: tipagem estrita, lint,
 testes e um ambiente que funciona igual em qualquer máquina.
 
-- 🔭 **Trabalhando em** — [`gym-app`](https://github.com/gabrieelbrazao/gym-app), um app de acompanhamento de treinos feito em TypeScript.
+- 🔭 **Trabalhando em** — [`barber-app`](https://github.com/gabrieelbrazao/barber-app), um app de agendamento white-label multi-tenant (Expo + Supabase), e [`gym-app`](https://github.com/gabrieelbrazao/gym-app), um app de treinos.
 - 🌱 **Estudando** — fluxos de desenvolvimento assistidos por IA e ferramentas de agentes.
 - 💬 **Pode me perguntar sobre** — TypeScript, Node.js, React / React Native, Docker e configuração de projetos.
 - 📫 **Como me encontrar** — [LinkedIn](https://www.linkedin.com/in/gabriel-brazao-dev/) ou [gabrieelbrazao@gmail.com](mailto:gabrieelbrazao@gmail.com).
@@ -120,6 +120,7 @@ and https://github.com/ryo-ma/github-profile-trophy) and swap the host in the UR
 
 | Project | What it is · O que é |
 | --- | --- |
+| **[barber-app](https://github.com/gabrieelbrazao/barber-app)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/barber-app?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/barber-app?style=flat-square&color=7AA2F7" alt="Last commit" /> | White-label barber booking app. One shared Supabase backend serves many shops, isolated by row-level security; each build is branded per client at runtime. Customer, staff and owner flows, with Stripe deposits.<br />App de agendamento white-label para barbearias. Um backend Supabase compartilhado atende várias lojas, isoladas por row-level security; cada build é personalizada por cliente em tempo de execução. Fluxos de cliente, profissional e dono, com depósitos via Stripe. |
 | **[gym-app](https://github.com/gabrieelbrazao/gym-app)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/gym-app?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/gym-app?style=flat-square&color=7AA2F7" alt="Last commit" /> | Workout tracking app written in TypeScript.<br />App de acompanhamento de treinos escrito em TypeScript. |
 | **[file-store](https://github.com/gabrieelbrazao/file-store)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/file-store?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/file-store?style=flat-square&color=7AA2F7" alt="Last commit" /> | Service that receives files and stores them in a database.<br />Serviço que recebe arquivos e os armazena em banco de dados. |
 | **[file-reader](https://github.com/gabrieelbrazao/file-reader)**<br /><img src="https://img.shields.io/github/languages/top/gabrieelbrazao/file-reader?style=flat-square&color=7AA2F7" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/gabrieelbrazao/file-reader?style=flat-square&color=7AA2F7" alt="Last commit" /> | Service that reads and processes files, then forwards them to another application.<br />Serviço que lê e processa arquivos e os envia para outra aplicação. |
